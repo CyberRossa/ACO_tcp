@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="jenetics-6.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/buildSrc/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.doc/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.example/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.ext/src/jmh/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.ext/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.ext/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.incubator/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.incubator/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.prog/src/jmh/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.prog/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.prog/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.tool/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.tool/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.xml/src/jmh/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.xml/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics.xml/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics/src/jmh/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/jenetics-6.2.0.zip!/jenetics-6.2.0/jenetics/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
